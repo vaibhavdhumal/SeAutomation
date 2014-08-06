@@ -16,3 +16,9 @@
 2014-08-06 15:52:12,778 INFO  [Dashboard] Under Posts menu 
 2014-08-06 15:52:17,590 INFO  [Dashboard] Add New post window is available 
 2014-08-06 15:52:26,013 INFO  [Post] Post is published 
+2014-08-06 17:46:15,214 INFO  [LoginTestClass] URL is fetched in browser 
+2014-08-06 17:46:15,363 INFO  [LoginTestClass] On Login page 
+2014-08-06 17:46:29,176 INFO  [Login] User is logged in to site 
+2014-08-06 17:46:29,482 INFO  [Dashboard] Under Posts menu 
+2014-08-06 17:46:34,258 INFO  [Dashboard] Add New post window is available 
+2014-08-06 17:46:42,753 INFO  [Post] Post is published 
