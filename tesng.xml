@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+
+  <test name="Test Case 02">
+    <classes>
+      <class name="test.source.testclasses.LoginTestClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

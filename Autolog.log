@@ -1,0 +1,12 @@
+2014-08-06 14:31:07,719 INFO  [LoginTestClass] URL is fected in browser 
+2014-08-06 14:31:07,876 INFO  [LoginTestClass] On Login page 
+2014-08-06 14:31:22,431 INFO  [LoginTestClass] User is logged in to siter 
+2014-08-06 14:31:22,726 INFO  [LoginTestClass] Under Posts menu 
+2014-08-06 14:31:27,743 INFO  [LoginTestClass] Add New post window is available 
+2014-08-06 14:31:38,958 INFO  [LoginTestClass] Post is published 
+2014-08-06 14:33:52,275 INFO  [LoginTestClass] URL is fetched in browser 
+2014-08-06 14:33:52,402 INFO  [LoginTestClass] On Login page 
+2014-08-06 14:34:05,742 INFO  [LoginTestClass] User is logged in to site 
+2014-08-06 14:34:06,041 INFO  [LoginTestClass] Under Posts menu 
+2014-08-06 14:34:11,048 INFO  [LoginTestClass] Add New post window is available 
+2014-08-06 14:34:19,890 INFO  [LoginTestClass] Post is published 
