@@ -11,7 +11,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
-import test.source.testclasses.LoginTestClass;
+
 
 //import PageObject.Login;
 
@@ -20,7 +20,7 @@ public class Dashboard {
 
 WebDriver driver;
 
-private static Logger log=Logger.getLogger(LoginTestClass.class);
+private static Logger log=Logger.getLogger(Dashboard.class);
 
 @FindBy(how=How.XPATH,using="//div[text()='Posts']")
 WebElement posts;

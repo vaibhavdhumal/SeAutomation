@@ -11,14 +11,14 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
-import test.source.testclasses.LoginTestClass;
+
 
 //Publish Post
 
 public class Post {
 	
 	WebDriver driver;
-	private static Logger log=Logger.getLogger(LoginTestClass.class);
+	private static Logger log=Logger.getLogger(Post.class);
 	
 	@FindBy(how=How.ID,using="title-prompt-text")
 	WebElement title1;

@@ -11,7 +11,6 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
-import test.source.testclasses.LoginTestClass;
 
 //import PageObject.Dashboard;
 
@@ -19,7 +18,7 @@ import test.source.testclasses.LoginTestClass;
 public class Login {
 WebDriver driver;
 
-private static Logger log=Logger.getLogger(LoginTestClass.class);
+private static Logger log=Logger.getLogger(Login.class);
 
 @FindBy(how=How.ID,using="user_login")
 WebElement userId;
